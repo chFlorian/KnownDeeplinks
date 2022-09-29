@@ -20,3 +20,4 @@ Everyone is free to contribute deep links. Be that for system apps, third party 
 
 # Other resources
 [List of Apple deep links](https://medium.com/@contact.jmeyers/complete-list-of-ios-url-schemes-for-apple-apps-and-services-always-updated-800c64f450f)
+[Another list of deep links](https://www.techregister.co.uk/always-updated-list-of-ios-app-url-scheme-names-paths-for-shortcuts-ios-iphone-gadget-hacks/)
