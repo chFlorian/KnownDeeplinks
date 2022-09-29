@@ -17,3 +17,6 @@ Everyone is free to contribute deep links. Be that for system apps, third party 
 - I suggest using [TableConvert](https://tableconvert.com/markdown-to-markdown) to make sure the table works after your edits
 - Make sure the table isn't broken :)
 - Open a pull request
+
+# Other resources
+[List of Apple deep links](https://medium.com/@contact.jmeyers/complete-list-of-ios-url-schemes-for-apple-apps-and-services-always-updated-800c64f450f)
